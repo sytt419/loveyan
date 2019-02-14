@@ -10,6 +10,7 @@ import plotly.plotly as py
 plotly.tools.set_credentials_file(username='srveale', api_key='GajxMbxLyoAc3R0I6K6e')
 import plotly.graph_objs as go
 from plotly import tools
+
 # import plotly.offline as py
 
 import matplotlib as mpl
